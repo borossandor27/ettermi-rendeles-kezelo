@@ -46,7 +46,7 @@ dotnet run --project src/Etterem.WpfClient
 - Felhasználói kézikönyv: `docs/felhasznaloi-kezikonyv.md`
 - Fejlesztői dokumentáció: `docs/fejlesztoi-dokumentacio.md`
 - Adatmodell: `docs/adatmodell.md`
- 
+
 ## Licenc
- 
+
 MIT — lásd [LICENSE](LICENSE).
